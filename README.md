@@ -1,5 +1,6 @@
 # AI-Engineer <br>
 Summary of the Path:
+(Application → Engineer → Cloud → Agentic)
 Build Apps: AI Application Development (Learn LangChain & APIs)
 
 Broaden Skills: Complete AI Engineer Bootcamp (Foundational knowledge)
