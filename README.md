@@ -10,7 +10,7 @@ Go Professional: AWS SageMaker Bootcamp (Fine-tuning & Cloud Deployment)
 Master Complexity: Agentic AI in Production (Advanced workflows & Agents)
 
 
-Summary Path Breakdown
+Summary Path Breakdown <br>
 Phase 1: Application (ZTM AI App Dev)
 
 Focus: "AI as a Service." Learning to use APIs (OpenAI/Gemini) and LangChain.
